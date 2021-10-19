@@ -8,3 +8,7 @@ var coffeeCups= 10;
 
 var isOnADiet = false;
 var lovesFood = true;
+
+var crystalTypes = [`tigers eye`, `rose quartz`, `amethyst`];
+var cryptocurrency = [`bitcoin`, `etheruem`, `solana`]
+var teaOptions = [`almond`, `berry hibiscus`, `chamomile`];
