@@ -5,3 +5,6 @@ var color = 'pink';
 var numberOfEggs = 12;
 var timerForDryer = 5;
 var coffeeCups= 10;
+
+var isOnADiet = false;
+var lovesFood = true;
