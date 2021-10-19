@@ -12,3 +12,9 @@ var lovesFood = true;
 var crystalTypes = [`tigers eye`, `rose quartz`, `amethyst`];
 var cryptocurrency = [`bitcoin`, `etheruem`, `solana`]
 var teaOptions = [`almond`, `berry hibiscus`, `chamomile`];
+
+var apartmentComplex = {
+  name: 'Westbury',
+  apartments: '400',
+  vacant: '50'
+}
